@@ -1,0 +1,71 @@
+#wpcontent {
+	padding-left: 0px;
+}
+
+.wtai-woocommerce-layout-header {
+	background: #fff;
+	box-sizing: border-box;
+	padding: 0;
+	position: unset;
+	width: 100%;
+}
+
+.wtai-woocommerce-layout-header .wtai-woocommerce-layout-header-heading {
+	display: flex;
+	align-items: center;
+	padding: 0 0 0 40px;
+	flex: 1 auto;
+	height: 60px;
+	background: #fff;
+	font-weight: 600;
+	font-size: 14px;
+	margin: 0px;
+	color: #1E1E1E;
+}
+
+#wtai-imaginary-div-topheader {
+	height: 60px
+}
+.wtai-table-list-wrapper.wrap{
+	margin: 0;
+	padding: 0 20px 20px;
+	/*min-height: 110vh;*/
+}
+
+.wtai-title-header {
+	margin-top: 20px;
+}
+
+.writetext-ai_page_write-text-ai-category .sticky-header,
+.toplevel_page_write-text-ai .sticky-header {
+	position: sticky;
+}
+
+.writetext-ai_page_write-text-ai-category thead th,
+.writetext-ai_page_write-text-ai-category thead td,
+.toplevel_page_write-text-ai thead th,
+.toplevel_page_write-text-ai thead td {
+	background: #fff;
+}
+
+/*@media (min-width: 783px) {
+	body.wtai-page-list:not(.auto-fold) #adminmenuwrap {
+		max-height: 100vh;
+		overflow-x: hidden;
+		overflow-y: auto;
+		padding-bottom: 32px;
+	}
+}*/
+
+/*
+@media only screen and (max-width: 960px) {
+	.auto-fold #adminmenu, .auto-fold #adminmenu li.menu-top, .auto-fold #adminmenuback, .auto-fold #adminmenuwrap {
+		width: 52px !important;
+	}
+}*/
+
+/*@media (min-width: 1200px) {
+	body.wtai-page-list {
+		overflow-y: hidden;
+	}
+}*/

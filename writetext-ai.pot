@@ -1,0 +1,2903 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WriteText.ai\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-16 09:40+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Domain: writetext-ai"
+
+# Text for Character length found in product edit page. Ex: 0/60 Char
+#: includes/class-wtai-product-dashboard.php:246
+#: includes/class-wtai-init.php:831 includes/class-wtai-init.php:868
+#: includes/class-wtai-init.php:893 includes/functions.php:190
+#: includes/functions.php:231 includes/class-wtai-product-category.php:125
+#: templates/admin/dashboard.php:171
+#: templates/admin/metabox/popin-keyword.php:337
+msgid " Char"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:247 includes/functions.php:231
+#: includes/class-wtai-product-category.php:126
+msgid " word/s"
+msgstr ""
+
+#. %1$s: Processed image ids, %2$s: total alt text images passed
+#: includes/class-wtai-api-services.php:5715
+#, php-format
+msgid "%1$s out of %2$s image alt text/s were generated."
+msgstr ""
+
+#. %char%: Character count placeholder
+#: includes/class-wtai-product-dashboard.php:357
+#: includes/class-wtai-product-category.php:294
+msgid "%char% Char"
+msgstr ""
+
+#. %s: Credit count
+#: includes/functions.php:4961
+#, php-format
+msgid "%s credit available"
+msgstr ""
+
+#. %s: Credit count
+#: includes/functions.php:4958 includes/functions.php:4964
+#, php-format
+msgid "%s credits available"
+msgstr ""
+
+#. %words%: Words count placeholder
+#: includes/class-wtai-product-dashboard.php:359
+#: includes/class-wtai-product-category.php:296
+msgid "%words% word/s"
+msgstr ""
+
+#. %s: copy right year
+#: templates/admin/footer-mobile.php:57 templates/admin/footer.php:81
+#, php-format
+msgid "&copy; %s"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:2393
+#: includes/class-wtai-init.php:623 includes/functions.php:4122
+#: templates/admin/metabox/category-image.php:34
+msgid "(Analyze image to generate more relevant text)"
+msgstr ""
+
+#: templates/admin/metabox/keywords-ranked.php:120
+#: templates/admin/metabox/keywords-suggested.php:111
+#: templates/admin/metabox/keywords-competitor.php:120
+msgid "(by relevance)"
+msgstr ""
+
+#: templates/admin/category.php:277
+msgid "(field not supported by SEO plugin)"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1343
+msgid "(from browser ext.)"
+msgstr ""
+
+#. %s: Freemium credit count
+#: templates/admin/freemium-popup.php:44
+#, php-format
+msgid ""
+"*Premium access is valid for one year or until you have used up your premium "
+"%s credits, whichever comes first."
+msgstr ""
+
+#: templates/admin/metabox/keywords-ranked.php:32
+#: templates/admin/metabox/keywords-suggested.php:34
+#: templates/admin/metabox/popin-keyword.php:33
+#: templates/admin/metabox/keywords-competitor.php:32
+msgid "0 - 10,000"
+msgstr ""
+
+#: templates/admin/metabox/keywords-ranked.php:31
+#: templates/admin/metabox/keywords-suggested.php:33
+#: templates/admin/metabox/popin-keyword.php:32
+#: templates/admin/metabox/keywords-competitor.php:31
+msgid "10,001 - 50,000"
+msgstr ""
+
+#. Author of the plugin
+msgid "1902 Software"
+msgstr ""
+
+#: templates/admin/metabox/keywords-ranked.php:30
+#: templates/admin/metabox/keywords-suggested.php:32
+#: templates/admin/metabox/popin-keyword.php:31
+#: templates/admin/metabox/keywords-competitor.php:30
+msgid "50,001 and over"
+msgstr ""
+
+#. %1$s: wta ai site link, %2$s: 1902 WP site link
+#: templates/admin/footer-mobile.php:59 templates/admin/footer.php:83
+#, php-format
+msgid ""
+"<a href=\"%1$s\" target=\"_blank\" >WriteText.ai</a> by <a href=\"%2$s\" "
+"target=\"_blank\" >1902 Software</a>"
+msgstr ""
+
+#. %s: Premium url
+#: includes/class-wtai-api-services.php:1176
+#: includes/class-wtai-api-services.php:1797
+#: includes/class-wtai-product-category.php:1588
+#, php-format
+msgid ""
+"<a href=\"%s\" target=\"_blank\" >Premium</a> is required to do this action."
+msgstr ""
+
+#. %s: settings url
+#: includes/class-wtai-init.php:1252
+#, php-format
+msgid "<a href=\"%s\">Settings</a>"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:372
+msgid ""
+"<a href=\"https://writetext.ai/\" target=\"_blank\" >WriteText.ai</a> is "
+"done generating text for your selected products."
+msgstr ""
+
+#: templates/admin/intent-tooltip.php:17
+msgid ""
+"<i>Commercial</i> - Users are researching products or services with the "
+"intention of making a purchase decision soon."
+msgstr ""
+
+#: templates/admin/intent-tooltip.php:15
+msgid ""
+"<i>Informational</i> - Users seek information on a specific topic, intending "
+"to learn something."
+msgstr ""
+
+#: templates/admin/intent-tooltip.php:14
+msgid ""
+"<i>Navigational</i> - Users have a specific website or web page in mind and "
+"are using search engines to navigate there directly."
+msgstr ""
+
+#: templates/admin/intent-tooltip.php:16
+msgid ""
+"<i>Transactional</i> - Users aim to complete a transaction, such as making a "
+"purchase or signing up for a service."
+msgstr ""
+
+#: templates/admin/dashboard.php:274
+msgid ""
+"<span class=\"wtai-credvalue\">0</span> <span class=\"wtai-cred-label\" >"
+"credits</span>"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:462
+#: includes/class-wtai-global-settings.php:87
+#: includes/class-wtai-product-category.php:330 templates/admin/install.php:33
+msgid ""
+"<strong>Warning:</strong> Disable all pop-up blockers then refresh this page."
+" WriteText.ai does not work when you have pop-up blockers enabled."
+msgstr ""
+
+#: writetext-ai.php:162
+msgid ""
+"A system error has occurred. Please click the \"Start AI-powered analysis\" "
+"button again. If the issue persists, please contact our support team at "
+"support@writetext.ai."
+msgstr ""
+
+#: writetext-ai.php:154
+msgid ""
+"A system error has occurred. Please try again. If the issue persists, please "
+"contact our support team at support@writetext.ai."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:301
+#: includes/class-wtai-product-dashboard.php:345
+#: includes/class-wtai-product-category.php:227
+msgid "Access denied"
+msgstr ""
+
+#: includes/class-wtai-installation.php:455
+msgid "Activate now"
+msgstr ""
+
+#: includes/class-wtai-installation.php:459
+msgid "Active"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:319
+#: includes/class-wtai-product-dashboard.php:448
+#: includes/class-wtai-product-category.php:245
+#: templates/admin/metabox/keywords-ranked.php:290
+#: templates/admin/metabox/keywords-suggested.php:241
+#: templates/admin/metabox/keywords-competitor.php:304
+#: templates/admin/metabox/keywords-manual.php:154
+msgid "Add as target keyword"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:75
+msgid ""
+"Add other product details on top of existing product attributes to improve "
+"the quality and relevance of the text"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:43
+msgid "Add target keywords"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:330
+#: includes/class-wtai-product-category.php:256
+#: templates/admin/metabox/popin-keyword.php:323
+msgid "Add your own keyword here..."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1308
+#: includes/class-wtai-product-category-list-table.php:563
+#: templates/admin/metabox/keywords-ranked.php:29
+#: templates/admin/metabox/keywords-suggested.php:31
+#: templates/admin/metabox/popin-keyword.php:30
+#: templates/admin/metabox/keywords-competitor.php:29
+msgid "All"
+msgstr ""
+
+#: templates/admin/install.php:332
+msgid "All done!"
+msgstr ""
+
+#: templates/admin/install.php:231
+msgid ""
+"Almost done! Before you begin generating text, choose the default global "
+"settings for the plugin. You can always change these settings later in "
+"WriteText.ai > Settings."
+msgstr ""
+
+#. %s: max open graph limit
+#: templates/admin/post.php:316
+#, php-format
+msgid ""
+"Analyze your product image and automatically generate an alt image text "
+"(incorporating your product name and keywords) to help improve your "
+"website's accessibility and the way that search engines understand your "
+"content. WriteText.ai aims to generate an alt text with around %s characters "
+"based on current best practices. Note: We only allow up to 10 images here, "
+"including the product featured image. If you have more than 10 images "
+"uploaded to your product, only the first 10 images in your listing will be "
+"included."
+msgstr ""
+
+#. %s: Login url
+#: includes/class-wtai-product-dashboard.php:347
+#, php-format
+msgid ""
+"API token has expired. Please <a href=\\\"%s\\\" target=\\\"_blank\\\">log "
+"in again</a>"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:414
+msgid "Attention"
+msgstr ""
+
+#: includes/class-wtai-init.php:1127 templates/admin/metabox/filter.php:70
+#: templates/admin/metabox/category-filter.php:70
+msgid "Audience"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:283
+#: includes/class-wtai-product-dashboard.php:420
+#: includes/class-wtai-product-category.php:203
+msgid "Audience is unavailable when reference product is selected."
+msgstr ""
+
+#: includes/class-wtai-init.php:656
+msgid "Audiences"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:390
+#: includes/class-wtai-product-dashboard.php:955
+msgid "Bulk actions completed"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:389
+#: includes/class-wtai-product-dashboard.php:946
+msgid "Bulk actions ongoing"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:976
+#: includes/class-wtai-product-list-table.php:1626
+#: includes/class-wtai-product-dashboard.php:350
+msgid "Bulk generate"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:39
+msgid "Bulk generate and bulk transfer text"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1628
+msgid "Bulk generate pop-up settings"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:980
+#: includes/class-wtai-product-list-table.php:1634
+#: includes/class-wtai-product-dashboard.php:351
+msgid "Bulk transfer"
+msgstr ""
+
+#: includes/class-wtai-installation.php:181
+msgid ""
+"Can't activate the plugin. Please try again or contact your site's "
+"administrator."
+msgstr ""
+
+#: includes/class-wtai-installation.php:183
+msgid ""
+"Can't download the plugin. Please try again or contact your site's "
+"administrator."
+msgstr ""
+
+#: includes/class-wtai-api-services.php:750
+#: includes/class-wtai-api-services.php:979
+#: includes/class-wtai-product-dashboard.php:363
+#: includes/class-wtai-product-dashboard.php:377
+#: includes/class-wtai-product-dashboard.php:1058
+#: includes/class-wtai-product-dashboard.php:1079
+#: includes/class-wtai-product-dashboard.php:1099
+#: includes/class-wtai-product-dashboard.php:1119
+#: includes/class-wtai-product-dashboard.php:2786
+#: includes/class-wtai-product-dashboard.php:2864
+#: includes/class-wtai-product-dashboard.php:4151
+#: includes/class-wtai-product-dashboard.php:4181
+#: includes/class-wtai-product-category.php:302 templates/admin/settings.php:73
+msgid "Cancel"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:982
+msgid ""
+"Cancellation is dependent on the server response; it may be disabled upon "
+"initial processing or when there are only 2 products or less left in your "
+"queue."
+msgstr ""
+
+#: includes/class-wtai-api-services.php:889
+msgid "Cancelled"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:887
+#: includes/class-wtai-product-dashboard.php:463
+msgid "Cancelling..."
+msgstr ""
+
+#: includes/class-wtai-product-category.php:373
+#: templates/admin/dashboard-category.php:36
+msgid "Categories"
+msgstr ""
+
+#: includes/class-wtai-init.php:263
+msgid "Category description"
+msgstr ""
+
+#: templates/admin/category.php:132
+#: templates/admin/metabox/category-image.php:32
+msgid "Category image"
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:345
+msgid "Category name"
+msgstr ""
+
+#: includes/functions.php:4067
+msgid "char"
+msgstr ""
+
+#: templates/admin/install.php:141
+msgid "Check SEO plugin"
+msgstr ""
+
+#: templates/admin/post.php:135
+msgid ""
+"Check the product attributes that you want to be considered in generating "
+"text. You can also select your main product image here and AI will analyze "
+"it in order to generate more accurate and relevant text. Please make sure "
+"that the image accurately represents the product (i.e., it is not some kind "
+"of placeholder or a generic image for your shop)."
+msgstr ""
+
+#: templates/admin/category.php:39
+msgid ""
+"Check this box to keep track of the categories where you have reviewed the "
+"text. This is especially helpful if you have an internal workflow where text "
+"needs to go through a review process first before being published on the "
+"website. This checkbox does not affect the live content, it is only a "
+"classification."
+msgstr ""
+
+#: templates/admin/post.php:32
+msgid ""
+"Check this box to keep track of the products where you have reviewed the "
+"text. This is especially helpful if you have an internal workflow where text "
+"needs to go through a review process first before being published on the "
+"website. This checkbox does not affect the live content, it is only a "
+"classification."
+msgstr ""
+
+#: templates/admin/install.php:159
+msgid "Choose a different SEO plugin"
+msgstr ""
+
+#: templates/admin/settings.php:95
+msgid ""
+"Choose a style to set the voice and structure of the text. What you choose "
+"here will apply to all your products unless you choose different options for "
+"a specific product page. We recommend setting a default in order to ensure a "
+"consistent voice throughout your entire website."
+msgstr ""
+
+#: templates/admin/settings.php:112
+msgid ""
+"Choose the default product attributes that will be considered in generating "
+"your product text. You can also select your main product image here and AI "
+"will analyze it in order to generate more accurate and relevant text. Please "
+"make sure that the image accurately represents the product (i.e., it is not "
+"some kind of placeholder or a generic image for your shop). Note that "
+"selecting a product attribute is not a guarantee that it will appear in the "
+"text itself, but it does influence how the text will be written."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1629
+msgid ""
+"Choose your preferred tones, style, and audiences, as well as the product "
+"attributes that you want to be considered in generating text, including your "
+"product images. Note that only the featured image per product will be used "
+"in generating text. You can check what image is used as the featured image "
+"in the individual product page. Make sure that the featured image set "
+"accurately represents the product (i.e., it is not some kind of placeholder "
+"or a generic image for your shop) in order for AI to generate relevant text. "
+"You can also set the target length for your product descriptions here. Note "
+"that your credit cost will depend on the target length you set so make sure "
+"to set a reasonable target range."
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:97
+msgid ""
+"Click \"Start AI-powered Keyword Analysis\" to automatically enhance your "
+"keyword strategy. WriteText.ai will retrieve available keyword data for "
+"applicable sections. Check the help text for each section or watch this "
+"explainer video to learn more."
+msgstr ""
+
+#. %s: number of keywrods that can be added
+#: templates/admin/metabox/keyword.php:34
+#, php-format
+msgid ""
+"Click the \"Do keyword analysis\" button to add up to %s target keywords for "
+"your category page. This will also open the dashboard where you can get "
+"keyword ideas as well as data on search volume and difficulty from Google "
+"and other search sources. If there are no target keywords added, WriteText."
+"ai will generate text based on the category name and if selected, category "
+"image and representative products."
+msgstr ""
+
+#. %s: number of keywrods that can be added
+#: templates/admin/metabox/keyword.php:42
+#, php-format
+msgid ""
+"Click the \"Do keyword analysis\" button to add up to %s target keywords for "
+"your product page. This will also open the dashboard where you can get "
+"keyword ideas as well as data on search volume and difficulty from Google "
+"and other search sources. If there are no target keywords added, WriteText."
+"ai will generate text based on the product name and selected product "
+"attributes."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:322
+#: includes/class-wtai-product-dashboard.php:451
+#: includes/class-wtai-product-category.php:248
+#: templates/admin/metabox/popin-keyword.php:216
+msgid "Click the \"Start AI-powered keyword analysis\" button to get started."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:328
+#: includes/class-wtai-product-dashboard.php:457
+#: includes/class-wtai-product-category.php:254
+#: templates/admin/metabox/popin-keyword.php:413
+msgid ""
+"Click the “Start AI-powered keyword analysis” button to get data for your "
+"manually typed keywords (keyword ideas, search volume, and difficulty)."
+msgstr ""
+
+#: includes/class-wtai-product-category.php:251
+msgid ""
+"Click the “Start AI-powered keyword analysis” button to get started. If "
+"there are no keywords you are currently ranking for or selected keywords to "
+"be included in your text, WriteText.ai will search for possible competitors "
+"you may have based on your category name."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:325
+#: includes/class-wtai-product-dashboard.php:454
+#: templates/admin/metabox/popin-keyword.php:275
+msgid ""
+"Click the “Start AI-powered keyword analysis” button to get started. If "
+"there are no keywords you are currently ranking for or selected keywords to "
+"be included in your text, WriteText.ai will search for possible competitors "
+"you may have based on your product name."
+msgstr ""
+
+#: templates/admin/metabox/filter.php:140
+#: templates/admin/metabox/category-filter.php:101
+msgid "Collapse"
+msgstr ""
+
+#: includes/functions.php:4528
+msgid "Comments"
+msgstr ""
+
+#. %s: competitor for keyword value
+#: templates/admin/metabox/keywords-serp.php:145
+#, php-format
+msgid "Competitor for keyword %s"
+msgstr ""
+
+#: templates/admin/metabox/keywords-serp.php:16
+msgid "Competitors"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:235
+msgid ""
+"Competitors are pages that are ranking for either the same keywords you’re "
+"currently ranking for or the keywords you selected to be included in your "
+"text. You can check which competitors are ranking for which keyword by "
+"clicking on the keyword. The keywords shown in this section are ones that "
+"your competing pages are ranking for but this category page is not. Data on "
+"search volume, intent, and difficulty are also displayed here."
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:237
+msgid ""
+"Competitors are pages that are ranking for either the same keywords you’re "
+"currently ranking for or the keywords you selected to be included in your "
+"text. You can check which competitors are ranking for which keyword by "
+"clicking on the keyword. The keywords shown in this section are ones that "
+"your competing pages are ranking for but this product page is not. Data on "
+"search volume, intent, and difficulty are also displayed here."
+msgstr ""
+
+#: templates/admin/install.php:102 templates/admin/install.php:142
+#: templates/admin/install.php:229 templates/admin/install.php:333
+msgid "Completed"
+msgstr ""
+
+#: templates/admin/install.php:228
+msgid "Configure global settings"
+msgstr ""
+
+#: templates/admin/install.php:101
+msgid "Connect to your WriteText.ai account"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:3707
+#: templates/admin/dashboard.php:22 templates/admin/dashboard-category.php:22
+#: templates/admin/metabox/popin-keyword.php:83
+msgid "Country"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:394
+msgid "credit"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:395
+#: templates/admin/metabox/filter.php:175
+#: templates/admin/metabox/category-filter.php:135
+msgid "credits"
+msgstr ""
+
+#: includes/class-wtai-init.php:826 includes/class-wtai-init.php:863
+msgid "Custom"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:838 includes/functions.php:4520
+msgid "Date"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1406
+msgid "day/s"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:396
+msgid "Default tone is not selected in the settings."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:321
+#: includes/class-wtai-product-dashboard.php:450
+#: includes/class-wtai-product-category.php:247
+#: templates/admin/metabox/keywords-manual.php:127
+msgid "Delete keyword"
+msgstr ""
+
+#. %s: suggested correct spelling
+#: templates/admin/metabox/keywords-selected.php:163
+#, php-format
+msgid "Did you mean %s?"
+msgstr ""
+
+#: templates/admin/metabox/keywords-selected.php:28
+#: templates/admin/metabox/keywords-ranked.php:151
+#: templates/admin/metabox/keywords-ranked.php:162
+#: templates/admin/metabox/keywords-suggested.php:126
+#: templates/admin/metabox/keywords-suggested.php:137
+#: templates/admin/metabox/keywords-competitor.php:143
+#: templates/admin/metabox/keywords-competitor.php:154
+#: templates/admin/metabox/keywords-manual.php:41
+msgid "Difficulty"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:969
+msgid "Dismiss completed processes"
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:67
+msgid "Do keyword analysis"
+msgstr ""
+
+#: includes/functions.php:4545
+msgid "Done"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:942
+msgid "Done transferring text for your selected products."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1013
+#: includes/class-wtai-product-category-list-table.php:495
+msgid "Edit"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1330
+#: includes/class-wtai-product-list-table.php:1433
+#: includes/class-wtai-product-category-list-table.php:585
+#: includes/class-wtai-product-category-list-table.php:673
+msgid "Edited"
+msgstr ""
+
+#: templates/admin/dashboard.php:85 templates/admin/dashboard-category.php:85
+#: templates/admin/metabox/popin-history.php:22
+msgid "End date"
+msgstr ""
+
+#: templates/admin/dashboard.php:163
+msgid ""
+"Enter other details or instructions that you would like WriteText.ai to "
+"consider in generating text for the products you selected (e.g., add "
+"information on discounts, special sales, etc). This will not replace any "
+"details you may have added in the “Other product details” section in the "
+"individual product pages. Special instructions will be cleared at the end of "
+"a user session."
+msgstr ""
+
+#. %s: Max keyword length
+#: templates/admin/metabox/popin-keyword.php:332
+#, php-format
+msgid ""
+"Enter up to %s keywords. Press [ENTER] or use a comma to separate each "
+"keyword."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:1004
+#: includes/class-wtai-product-dashboard.php:1138
+msgid "Error encountered while generating the following text:"
+msgstr ""
+
+#. %fields%: wta text fields
+#: includes/class-wtai-product-dashboard.php:408
+msgid "Error encountered while generating the following text: %fields%."
+msgstr ""
+
+#: includes/class-wtai-api-services.php:596
+msgid "Estimated time remaining"
+msgstr ""
+
+#: templates/admin/metabox/filter.php:140
+#: templates/admin/metabox/category-filter.php:101
+msgid "Expand all"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:2393
+#: includes/class-wtai-init.php:623 includes/functions.php:4122
+#: includes/functions.php:4682
+msgid "Featured Image"
+msgstr ""
+
+#: templates/admin/metabox/keywords-serp.php:92
+msgid "Featured snippet"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1421
+#: includes/class-wtai-product-category-list-table.php:659
+#: templates/admin/dashboard.php:93 templates/admin/dashboard-category.php:94
+#: templates/admin/metabox/popin-history.php:30
+msgid "Filter"
+msgstr ""
+
+#: templates/admin/dashboard.php:89 templates/admin/dashboard-category.php:90
+#: templates/admin/metabox/popin-history.php:26
+msgid "Filter by user"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1284
+#: includes/class-wtai-product-category-list-table.php:539
+msgid "Filter by WriteText.ai status"
+msgstr ""
+
+#: templates/admin/install.php:321
+msgid "Finalize setup"
+msgstr ""
+
+#: templates/admin/post.php:71
+msgid ""
+"For example, if the product is already published, the text you transfer from "
+"WriteText.ai will automatically be published live. If the product is still "
+"in draft, the text you transfer will also be saved as a draft and you will "
+"need to publish the product first if you want to see the text live. You can "
+"see the status of the product in this box."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1363
+#: includes/class-wtai-product-dashboard.php:433 includes/functions.php:4507
+#: includes/functions.php:4511 includes/functions.php:4554
+#: includes/functions.php:4558
+msgid "For fact checking"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1359
+#: includes/class-wtai-product-dashboard.php:432 includes/functions.php:4503
+#: includes/functions.php:4511 includes/functions.php:4554
+#: includes/functions.php:4556
+msgid "For rewrite"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:1099
+#: includes/class-wtai-product-dashboard.php:1119
+#: templates/admin/dashboard.php:131 templates/admin/dashboard.php:274
+msgid "Generate"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1627
+msgid ""
+"Generate multiple or all product text types (meta title, meta description, "
+"product description, product short description, and Open Graph text) at once "
+"for the products you have selected."
+msgstr ""
+
+#: templates/admin/metabox/filter.php:157
+#: templates/admin/metabox/filter.php:183
+#: templates/admin/metabox/category-filter.php:117
+#: templates/admin/metabox/category-filter.php:143
+msgid "Generate new text"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:285
+#: includes/class-wtai-product-dashboard.php:415
+#: includes/class-wtai-product-category.php:205
+#: templates/admin/metabox/filter.php:175
+#: templates/admin/metabox/category-filter.php:135
+msgid "Generate selected"
+msgstr ""
+
+#: templates/admin/metabox/filter.php:184
+#: templates/admin/metabox/category-filter.php:144
+msgid ""
+"Generate text for your selected text types based on the settings on this "
+"page. "
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1326
+#: includes/class-wtai-product-list-table.php:1430
+#: includes/class-wtai-product-category-list-table.php:581
+#: includes/class-wtai-product-category-list-table.php:670
+msgid "Generated"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:417 includes/functions.php:4037
+#: includes/class-wtai-product-category.php:298
+msgid "generated"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:878
+#: includes/class-wtai-product-dashboard.php:2803
+msgid "Generating text"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:893
+#: includes/class-wtai-product-dashboard.php:2804
+#: includes/class-wtai-product-dashboard.php:2876
+msgid "Generating text..."
+msgstr ""
+
+#: templates/admin/metabox/filter.php:160
+#: templates/admin/metabox/filter.php:169
+#: templates/admin/metabox/category-filter.php:120
+#: templates/admin/metabox/category-filter.php:129
+msgid "Generation ongoing"
+msgstr ""
+
+#. %s - Freemium credit count
+#: templates/admin/freemium-badge.php:32
+#, php-format
+msgid ""
+"Get %s credits for FREE to access [WTAI_PREMIUM_BUTTON] when you generate "
+"your first text within 24 hours of signing up!"
+msgstr ""
+
+#. %s - Freemium credit count
+#: templates/admin/freemium-badge.php:29
+#, php-format
+msgid ""
+"Get additional %s credits for FREE when you generate your first text within "
+"24 hours of signing up!"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:47
+msgid ""
+"Get keyword search volume and competition data as well as related keyword "
+"ideas (Keyword Analysis)"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:51
+msgid "Get semantic keyword suggestions"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:67
+msgid "Get specific target market suggestions"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:306
+#: includes/class-wtai-product-dashboard.php:313
+#: includes/class-wtai-product-dashboard.php:440
+#: includes/class-wtai-product-dashboard.php:442
+#: includes/class-wtai-product-category.php:232
+#: includes/class-wtai-product-category.php:239
+msgid "Getting results ready..."
+msgstr ""
+
+#: templates/admin/settings.php:80
+msgid "Global settings"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:3871
+msgid "Global settings restored"
+msgstr ""
+
+#: templates/admin/install.php:168
+msgid ""
+"Great! You already have a compatible SEO plugin installed and activated. "
+"This is where WriteText.ai will transfer the SEO texts (meta title, meta "
+"description, Open Graph text) that it generates."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:987
+msgid "Hide"
+msgstr ""
+
+#: templates/admin/footer.php:72
+msgid "Hide step guides"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:401
+#: templates/admin/metabox/keywords-selected.php:15
+#: templates/admin/metabox/keywords-ranked.php:21
+#: templates/admin/metabox/keywords-ranked.php:83
+#: templates/admin/metabox/keywords-suggested.php:23
+#: templates/admin/metabox/popin-keyword.php:22
+#: templates/admin/metabox/keywords-competitor.php:21
+#: templates/admin/metabox/keywords-competitor.php:84
+#: templates/admin/metabox/keywords-manual.php:24
+msgid "HIGH"
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:106
+#: templates/admin/metabox/keyword.php:110
+msgid "Highlight keywords and semantic keywords"
+msgstr ""
+
+#: includes/class-wtai-init.php:911 includes/class-wtai-init.php:1009
+#: includes/class-wtai-init.php:1099
+msgid "Highlight potentially incorrect pronouns"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:863
+#: includes/class-wtai-product-category.php:478
+#: templates/admin/dashboard.php:27 templates/admin/dashboard.php:78
+#: templates/admin/dashboard-category.php:27
+#: templates/admin/dashboard-category.php:78
+#: templates/admin/metabox/popin-history.php:15
+msgid "History log"
+msgstr ""
+
+#: templates/admin/footer.php:59
+msgid "How credit cost is calculated"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://writetext.ai/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://writetext.ai/woocommerce"
+msgstr ""
+
+#: templates/admin/metabox/filter.php:186
+msgid ""
+"If any of your settings (e.g., keywords, product attributes, tone, style, "
+"and audiences) have changed but you don’t necessarily want to generate "
+"completely new text, you can use the Rewrite feature to keep the existing "
+"structure of the text but rewrite it to reflect any changes. Note that for "
+"the image alt text, only the product name and keywords are considered in the "
+"rewrite."
+msgstr ""
+
+#: templates/admin/metabox/category-filter.php:146
+msgid ""
+"If any of your settings (e.g., representative products, keywords, tone, "
+"style, and audiences) have changed but you don’t necessarily want to "
+"generate completely new text, you can use the Rewrite feature to keep the "
+"existing structure of the text but rewrite it to reflect any changes."
+msgstr ""
+
+#: templates/admin/category.php:140
+msgid ""
+"If available, you can let AI analyze the category image in order to generate "
+"more accurate and relevant text. Please check that the image accurately "
+"represents the category (i.e., it is not some kind of placeholder or a "
+"generic image for your shop)."
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:195
+msgid ""
+"If it’s the first time you’re doing an AI-powered keyword analysis on the "
+"site, WriteText.ai will retrieve ranking data for the whole domain (i.e., "
+"this page and your other category pages as well as product pages). If your "
+"page is ranking for any keyword/s, they will show here along with data on "
+"intent, search volume, and difficulty."
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:197
+msgid ""
+"If it’s the first time you’re doing an AI-powered keyword analysis on the "
+"site, WriteText.ai will retrieve ranking data for the whole domain (i.e., "
+"this page and your other product pages as well as category pages). If your "
+"page is ranking for any keyword/s, they will show here along with data on "
+"intent, search volume, and difficulty."
+msgstr ""
+
+#: templates/admin/dashboard.php:257 templates/admin/metabox/filter.php:118
+msgid ""
+"If you have already edited a certain product’s texts to fit the specific "
+"style and structure that you want, you can set it as a “Reference product” "
+"which WriteText.ai will use as the basis for generating text. When using a "
+"reference product, the individual settings for tone, style, and audience "
+"will be ignored. Note that image alt text generation will not be affected by "
+"the reference product."
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:138
+msgid ""
+"If you have selected any, WriteText.ai will retrieve the SERP data for each "
+"keyword (which you can preview upon clicking the keyword) along with intent, "
+"search volume, and difficulty."
+msgstr ""
+
+#: templates/admin/post.php:137
+msgid ""
+"If you want to add more information about the product, you can enter them in "
+"the “Other product details” section. For example, you can write: "
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:295
+msgid ""
+"If you want to know the search volume and difficulty data for a certain "
+"keyword, manually type it here and click “Start AI-powered keyword analysis” "
+"at the top to retrieve data."
+msgstr ""
+
+#: templates/admin/metabox/filter.php:60
+#: templates/admin/metabox/category-filter.php:60
+msgid ""
+"If you're aiming to write formally, you can check the \"Highlight "
+"potentially incorrect pronouns\" box to see informal pronouns in the text."
+msgstr ""
+
+#. %s: Image ctr
+#: includes/functions.php:4679
+#, php-format
+msgid "Image %s"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:2442 includes/functions.php:4925
+#: templates/admin/post.php:313
+msgid "Image alt text"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:434
+msgid ""
+"Image alt text generation failed because there are no images uploaded to the "
+"products selected. Upload images first before generating."
+msgstr ""
+
+#: templates/admin/install.php:148
+msgid ""
+"In addition to writing product descriptions, WriteText.ai also automatically "
+"generates meta titles, meta descriptions, and Open Graph texts for you. "
+"However, WordPress does not have built-in fields for updating these SEO tags,"
+" so you first need to install a compatible SEO plugin in order for WriteText."
+"ai to have a place in WordPress to transfer these texts to."
+msgstr ""
+
+#: includes/class-wtai-installation.php:453
+msgid "Inactive"
+msgstr ""
+
+#: templates/admin/settings.php:191
+msgid ""
+"Indicate your target length by setting a minimum and maximum word count for "
+"your category descriptions. WriteText.ai will aim to generate text within "
+"the number you have set, but it may give you more words than expected from "
+"time to time. Note that your credit cost will depend on the target length "
+"you set so make sure to set a reasonable target range."
+msgstr ""
+
+#: templates/admin/settings.php:129
+msgid ""
+"Indicate your target length by setting a minimum and maximum word count for "
+"your product descriptions. WriteText.ai will aim to generate text within the "
+"number you have set, but it may give you more words than expected from time "
+"to time. Note that your credit cost will depend on the target length you set "
+"so make sure to set a reasonable target range."
+msgstr ""
+
+#: templates/admin/settings.php:159
+msgid ""
+"Indicate your target length by setting a minimum and maximum word count for "
+"your product short descriptions. WriteText.ai will aim to generate text "
+"within the number you have set, but it may give you more words than expected "
+"from time to time. Note that your credit cost will depend on the target "
+"length you set so make sure to set a reasonable target range."
+msgstr ""
+
+#: templates/admin/post.php:190 templates/admin/post.php:194
+#: templates/admin/category.php:244
+msgid ""
+"Indicate your target length by setting a minimum and maximum word count. "
+"WriteText.ai will aim to generate text within the number you set, but it may "
+"give you more or less words than expected from time to time. Note that your "
+"credit cost will depend on the target length you set so make sure to set a "
+"reasonable target range."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:376
+#: includes/class-wtai-product-category.php:301
+msgid "Insert"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:375
+#: includes/class-wtai-product-category.php:300
+msgid "Insert/Edit link"
+msgstr ""
+
+#: includes/class-wtai-installation.php:449
+msgid "Install and activate"
+msgstr ""
+
+#: templates/admin/metabox/keywords-selected.php:26
+#: templates/admin/metabox/keywords-ranked.php:135
+#: templates/admin/metabox/keywords-competitor.php:127
+msgid "Intent"
+msgstr ""
+
+#: templates/admin/intent-tooltip.php:13
+msgid "Intent guide:"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:74
+#: templates/admin/metabox/keyword.php:20
+msgid "Keyword analysis"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:314
+#: includes/class-wtai-product-dashboard.php:443
+#: includes/class-wtai-product-category.php:240
+msgid "Keyword analysis is already in progress..."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:305
+#: includes/class-wtai-product-dashboard.php:381
+#: includes/class-wtai-product-category.php:231
+msgid ""
+"Keyword data are refreshed at the start of every month. The data you’re "
+"seeing might have changed since you last requested it. Click the “Start AI-"
+"powered keyword analysis” button to refresh data."
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:38
+#: templates/admin/metabox/keyword.php:46
+msgid "Keyword density"
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:47
+msgid ""
+"Keyword density refers to the percentage of times your target keyword or "
+"semantic keyword appears throughout the page, in comparison to the total "
+"number of words in it. In WriteText.ai, we only take into account the text "
+"visible on your page — which are the product description or the product "
+"short description. This means that the meta title, meta description, and "
+"Open Graph text are not counted. There may also be cases where you only use "
+"the product description in the page and not the product short description or "
+"vice versa. We advise you to leave the field empty for the text type you are "
+"not using so that you can get an accurate keyword density. You can see the "
+"keyword density percentage displayed next to every keyword in this section."
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:39
+msgid ""
+"Keyword density refers to the percentage of times your target keyword or "
+"semantic keyword appears throughout the page, in comparison to the total "
+"number of words in it. In WriteText.ai, we only take into account the text "
+"visible on your page — which is the category description. This means that "
+"the meta title, meta description, and Open Graph text are not counted. You "
+"can see the keyword density percentage displayed next to every keyword in "
+"this section."
+msgstr ""
+
+#: templates/admin/metabox/keywords-ranked.php:119
+#: templates/admin/metabox/keywords-suggested.php:110
+#: templates/admin/metabox/keywords-competitor.php:119
+msgid "Keyword ideas"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:378
+msgid ""
+"Keyword ideas based on the keywords you selected to be included in the text "
+"or your own manually-added keywords."
+msgstr ""
+
+#: templates/admin/metabox/keywords-selected.php:24
+msgid "Keywords"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:132
+msgid "Keywords to be included in your text"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:175
+msgid "Keywords you select to be included in your text will be displayed here."
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:188
+msgid "Keywords you're currently ranking for"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:228
+msgid "Keywords your competitors are ranking for"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:835
+#: includes/class-wtai-product-category-list-table.php:372
+#: templates/admin/metabox/popin-keyword.php:78
+msgid "Language"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:836
+#: includes/class-wtai-product-category-list-table.php:373
+msgid "Last edited in WriteText.ai"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:837
+#: includes/class-wtai-product-category-list-table.php:374
+msgid "Last transferred to WordPress"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:1079
+#: templates/admin/settings.php:73
+msgid "Leave"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Let AI automatically generate product descriptions and other content from "
+"your product data."
+msgstr ""
+
+#: templates/admin/install.php:336
+msgid "Let's start"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:859
+#: includes/class-wtai-product-category.php:474
+msgid "Link preview"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:378
+#: includes/class-wtai-product-category.php:303
+msgid "Link text"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:379
+#: includes/class-wtai-product-category.php:304
+msgid "Link URL"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:360
+#: includes/class-wtai-product-category.php:317
+#: templates/admin/metabox/keywords-ranked.php:314
+#: templates/admin/metabox/keywords-suggested.php:286
+#: templates/admin/metabox/keywords-competitor.php:327
+msgid "Load more"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:349
+#: includes/class-wtai-product-category.php:287
+msgid "Loading"
+msgstr ""
+
+#: templates/admin/install.php:114
+msgid "Log in / Sign up"
+msgstr ""
+
+#: templates/admin/install.php:104
+msgid ""
+"Log in or register on our backend in order to link this site to your "
+"WriteText.ai account. This is where you can manage billing, see reports, and "
+"check or purchase credits. If you have more than one ecommerce site, you can "
+"link it to the same WriteText.ai account."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:402
+#: templates/admin/metabox/keywords-selected.php:13
+#: templates/admin/metabox/keywords-ranked.php:19
+#: templates/admin/metabox/keywords-ranked.php:81
+#: templates/admin/metabox/keywords-suggested.php:21
+#: templates/admin/metabox/popin-keyword.php:20
+#: templates/admin/metabox/keywords-competitor.php:19
+#: templates/admin/metabox/keywords-competitor.php:82
+#: templates/admin/metabox/keywords-manual.php:22
+msgid "LOW"
+msgstr ""
+
+#: templates/admin/install.php:216
+msgid "Manage plugins"
+msgstr ""
+
+#: templates/admin/post.php:27 templates/admin/category.php:35
+msgid "Mark as reviewed"
+msgstr ""
+
+#: templates/admin/post.php:268 templates/admin/dashboard.php:196
+#: templates/admin/dashboard.php:221 templates/admin/settings.php:143
+#: templates/admin/settings.php:173 templates/admin/settings.php:205
+#: templates/admin/category.php:333 templates/admin/install.php:260
+#: templates/admin/install.php:285 templates/admin/install.php:310
+msgid "Max"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:403
+#: templates/admin/metabox/keywords-selected.php:14
+#: templates/admin/metabox/keywords-ranked.php:20
+#: templates/admin/metabox/keywords-ranked.php:82
+#: templates/admin/metabox/keywords-suggested.php:22
+#: templates/admin/metabox/popin-keyword.php:21
+#: templates/admin/metabox/keywords-competitor.php:20
+#: templates/admin/metabox/keywords-competitor.php:83
+#: templates/admin/metabox/keywords-manual.php:23
+msgid "MEDIUM"
+msgstr ""
+
+#: includes/class-wtai-init.php:245 includes/class-wtai-init.php:262
+#: includes/functions.php:4921
+msgid "Meta description"
+msgstr ""
+
+#: includes/class-wtai-init.php:244 includes/class-wtai-init.php:261
+#: includes/functions.php:4920
+msgid "Meta title"
+msgstr ""
+
+#: templates/admin/post.php:258 templates/admin/dashboard.php:186
+#: templates/admin/dashboard.php:211 templates/admin/settings.php:133
+#: templates/admin/settings.php:163 templates/admin/settings.php:195
+#: templates/admin/category.php:323 templates/admin/install.php:250
+#: templates/admin/install.php:275 templates/admin/install.php:300
+msgid "Min"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:743
+msgid "minute/s"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:804
+msgid "Name"
+msgstr ""
+
+#: includes/class-wtai-installation.php:461
+msgid "Next"
+msgstr ""
+
+#. %s: formatted date and time
+#: includes/class-wtai-product-dashboard.php:327
+#: includes/class-wtai-product-dashboard.php:456
+#: includes/class-wtai-product-category.php:253
+#, php-format
+msgid ""
+"No competitor keywords found as of %s. <br><br>Select or manually type other "
+"keywords and try again."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:371
+#: templates/admin/metabox/keywords-selected.php:95
+#: templates/admin/metabox/keywords-selected.php:103
+#: templates/admin/metabox/keywords-selected.php:111
+#: templates/admin/metabox/keywords-selected.php:119
+#: templates/admin/metabox/keywords-manual.php:97
+#: templates/admin/metabox/keywords-manual.php:105
+msgid "No data"
+msgstr ""
+
+#: includes/functions.php:4744 includes/class-wtai-product-category.php:315
+#: templates/admin/category.php:150
+#: templates/admin/metabox/category-image.php:40
+msgid "No image found."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:304
+#: includes/class-wtai-product-dashboard.php:374
+#: includes/class-wtai-product-category.php:230
+msgid ""
+"No keyword data received from the API. Check for misspellings in your "
+"keyword, check your country selection, or use a different keyword and try "
+"again."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:329
+#: includes/class-wtai-product-dashboard.php:458
+#: includes/class-wtai-product-category.php:255
+msgid ""
+"No keyword data received. Check for misspellings in your keyword(s) or use a "
+"different keyword and try again."
+msgstr ""
+
+#: includes/class-wtai-api-services.php:4183
+#: includes/class-wtai-api-services.php:4193
+#: includes/class-wtai-api-services.php:6030
+#: includes/class-wtai-api-services.php:6167
+#: includes/class-wtai-api-services.php:6181
+#: includes/class-wtai-api-services.php:6258
+#: includes/class-wtai-api-services.php:6268
+msgid "No keyword ideas"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:459
+#: includes/class-wtai-product-category.php:326
+msgid "No log found."
+msgstr ""
+
+#: templates/admin/metabox/keywords-ranked.php:319
+#: templates/admin/metabox/keywords-suggested.php:291
+#: templates/admin/metabox/keywords-competitor.php:331
+msgid "No more to show."
+msgstr ""
+
+#: includes/class-wtai-product-category.php:1135
+#: templates/admin/category.php:187
+#: templates/admin/metabox/category-product-list-dropdown.php:101
+#: templates/admin/metabox/category-product-list-dropdown.php:119
+msgid "No product/s found."
+msgstr ""
+
+#: includes/class-wtai-api-services.php:2343
+#: includes/class-wtai-product-category.php:2080
+msgid ""
+"No record found yet for the text fields. Please generate text first before "
+"saving."
+msgstr ""
+
+#: includes/class-wtai-api-services.php:2345
+#: includes/class-wtai-product-category.php:2082
+msgid ""
+"No record found yet for the text fields. Please generate text first before "
+"transferring."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:400
+msgid "No result found."
+msgstr ""
+
+#: includes/class-wtai-api-services.php:3932
+msgid "No suggestions found"
+msgstr ""
+
+#: includes/functions.php:165 includes/functions.php:181
+#: includes/functions.php:4063
+msgid "No text generated yet."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1312
+#: includes/class-wtai-product-list-table.php:1427
+#: includes/class-wtai-product-category-list-table.php:567
+#: includes/class-wtai-product-category-list-table.php:667
+msgid "Not generated"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:418 includes/functions.php:4035
+#: includes/class-wtai-product-category.php:299
+msgid "not generated"
+msgstr ""
+
+#: includes/class-wtai-installation.php:447
+msgid "Not installed"
+msgstr ""
+
+#: includes/functions.php:158 includes/functions.php:173
+#: includes/functions.php:4057
+msgid "Not transferred"
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:685
+msgid ""
+"Note that WriteText.ai status is based on the last action done in the "
+"category."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1445
+msgid ""
+"Note that WriteText.ai status is based on the last action done in the "
+"product."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1637 templates/admin/post.php:72
+#: templates/admin/category.php:79
+msgid ""
+"Note: Any media or shortcode you have inserted in your current WordPress "
+"text will be overwritten when you transfer from WriteText.ai."
+msgstr ""
+
+#: templates/admin/metabox/filter.php:187
+#: templates/admin/metabox/category-filter.php:147
+msgid ""
+"Note: Any media or shortcode you have inserted into the existing text will "
+"not be included in the rewritten version. The language of the text you are "
+"rewriting will be the same language used in the output."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:2414
+msgid ""
+"Note: Selecting the product image to be considered in generating text might "
+"result in a significantly longer time to complete your bulk generation, This "
+"is because we have to download and resize the image and then send it to the "
+"AI for analysis. The time it takes for this processing on a single product "
+"generation may be negligible, but it can add up when doing bulk generation "
+"for multiple products."
+msgstr ""
+
+#: templates/admin/dashboard.php:258 templates/admin/metabox/filter.php:119
+msgid ""
+"Note: The texts that will be used as reference are the ones currently in "
+"WordPress. Only products with all text types saved in WordPress will be "
+"available for selection in this list."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:425
+#: includes/class-wtai-product-category.php:311
+msgid "Nothing to transfer / Already transferred"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:753
+#: includes/class-wtai-api-services.php:762
+#: includes/class-wtai-api-services.php:980
+#: includes/class-wtai-product-dashboard.php:362
+#: includes/class-wtai-product-dashboard.php:1031
+#: includes/class-wtai-product-dashboard.php:1059
+#: includes/class-wtai-product-dashboard.php:1169
+#: includes/class-wtai-product-dashboard.php:2865
+#: includes/class-wtai-product-dashboard.php:3872
+#: includes/class-wtai-product-dashboard.php:4152
+#: includes/class-wtai-product-dashboard.php:4182
+msgid "OK"
+msgstr ""
+
+#: templates/admin/dashboard.php:292
+msgid "Ok"
+msgstr ""
+
+#: includes/class-wtai-init.php:248 includes/class-wtai-init.php:264
+#: includes/functions.php:4924 templates/admin/post.php:289
+#: templates/admin/category.php:354
+msgid "Open Graph text"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:380
+#: includes/class-wtai-product-category.php:305
+msgid "Open link in new window"
+msgstr ""
+
+#: templates/admin/metabox/filter.php:95
+msgid "OR"
+msgstr ""
+
+#: templates/admin/category.php:212
+msgid "Other details"
+msgstr ""
+
+#: templates/admin/post.php:158
+msgid "Other product details"
+msgstr ""
+
+#: templates/admin/post.php:188
+msgid ""
+"Please check your website to see if you are using the product description or "
+"the product short description field (or both) to ensure that you are "
+"generating the correct text. The current product description saved for the "
+"product is displayed in the box on the right for your reference only."
+msgstr ""
+
+#: templates/admin/post.php:192
+msgid ""
+"Please check your website to see if you are using the product description or "
+"the product short description field (or both) to ensure that you are "
+"generating the correct text. The current product short description saved for "
+"the product is displayed in the box on the right for your reference only."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1398
+#: includes/class-wtai-product-category-list-table.php:629
+msgid "Please enter a value less than or equal to 365 days."
+msgstr ""
+
+#: templates/admin/install.php:80
+msgid ""
+"Please log in again to set up your API region correctly in order to fetch "
+"data faster."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:398
+#: includes/class-wtai-product-dashboard.php:1024
+#: includes/class-wtai-product-dashboard.php:1162
+msgid ""
+"Please remember to check the output for any factual mistakes or inaccuracies "
+"before you publish the text to your live site."
+msgstr ""
+
+#: templates/admin/dashboard.php:289
+msgid "Please select some products first."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:4032
+#: includes/class-wtai-product-category.php:1472
+msgid "Please upload a different image and try again."
+msgstr ""
+
+#: templates/admin/install.php:91
+msgid "Plugin setup guide"
+msgstr ""
+
+#: templates/admin/metabox/premium.php:24
+msgid "Premium"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:4122
+msgid ""
+"Preparing images for generation. Please do not reload or close this page."
+msgstr ""
+
+#: templates/admin/post.php:87 templates/admin/category.php:97
+#: templates/admin/category.php:97
+msgid "Preview changes"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:4150
+#: includes/class-wtai-product-dashboard.php:4180
+msgid "Proceed"
+msgstr ""
+
+#: templates/admin/post.php:128 templates/admin/dashboard.php:145
+#: templates/admin/install.php:238
+msgid "Product attributes"
+msgstr ""
+
+#: includes/class-wtai-init.php:246 includes/functions.php:4922
+#: templates/admin/dashboard.php:181
+msgid "Product description"
+msgstr ""
+
+#: includes/class-wtai-init.php:247 includes/functions.php:4923
+#: templates/admin/dashboard.php:206
+msgid "Product short description"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:907
+#: includes/class-wtai-api-services.php:951
+#: includes/class-wtai-product-dashboard.php:1051
+#: includes/class-wtai-product-dashboard.php:2809
+#: includes/class-wtai-product-dashboard.php:2850
+#: includes/class-wtai-product-dashboard.php:2881
+#: includes/class-wtai-product-dashboard.php:2899
+msgid "product/s"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:560
+#: templates/admin/dashboard.php:36
+msgid "Products"
+msgstr ""
+
+#: templates/admin/metabox/keywords-serp.php:34
+#: templates/admin/metabox/keywords-selected.php:25
+#: templates/admin/metabox/keywords-ranked.php:127
+msgid "Rank"
+msgstr ""
+
+#: templates/admin/dashboard.php:252
+msgid "Reference product"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:284
+#: includes/class-wtai-product-dashboard.php:421
+#: includes/class-wtai-product-category.php:204
+msgid "Reference product is unavailable when doing rewrite."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:243
+#: includes/class-wtai-product-category.php:122
+msgid "Reference: "
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:147
+#: templates/admin/metabox/popin-keyword.php:247
+#: templates/admin/metabox/popin-keyword.php:304
+#: templates/admin/metabox/popin-keyword.php:386
+msgid "Refresh data"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:312
+#: includes/class-wtai-product-dashboard.php:441
+#: includes/class-wtai-product-category.php:238
+msgid "Refreshing data..."
+msgstr ""
+
+#: includes/class-wtai-init.php:896 includes/class-wtai-init.php:1197
+msgid "Regenerate"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:320
+#: includes/class-wtai-product-dashboard.php:449
+#: includes/class-wtai-product-category.php:246
+#: templates/admin/metabox/keywords-selected.php:178
+#: templates/admin/metabox/keywords-ranked.php:280
+#: templates/admin/metabox/keywords-suggested.php:231
+#: templates/admin/metabox/keywords-competitor.php:294
+#: templates/admin/metabox/keywords-manual.php:145
+msgid "Remove as target keyword"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:317
+#: includes/class-wtai-product-dashboard.php:446
+#: includes/class-wtai-product-category.php:243
+#: templates/admin/metabox/keywords-manual.php:27
+msgid ""
+"Remove this keyword from the \"Keywords to be included in your text\" before "
+"deleting it."
+msgstr ""
+
+#: templates/admin/category.php:160
+msgid "Representative products"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1410
+#: includes/class-wtai-product-category-list-table.php:649
+#: includes/class-wtai-init.php:748 includes/class-wtai-init.php:919
+#: includes/class-wtai-init.php:957 includes/class-wtai-init.php:1017
+#: includes/class-wtai-init.php:1051 includes/class-wtai-init.php:1107
+#: includes/class-wtai-init.php:1149
+msgid "Reset"
+msgstr ""
+
+#: templates/admin/footer-mobile.php:42 templates/admin/footer.php:67
+msgid "Restore global settings"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1343
+msgid "Review status"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1334
+#: includes/class-wtai-product-list-table.php:1435
+#: includes/class-wtai-product-category-list-table.php:589
+#: includes/class-wtai-product-category-list-table.php:675
+msgid "Reviewed"
+msgstr ""
+
+#: includes/functions.php:4516
+msgid "Reviewed by"
+msgstr ""
+
+#: templates/admin/metabox/filter.php:164
+#: templates/admin/metabox/filter.php:185
+#: templates/admin/metabox/category-filter.php:124
+#: templates/admin/metabox/category-filter.php:145
+msgid "Rewrite existing"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:59
+msgid "Rewrite existing text"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:290
+#: includes/class-wtai-product-dashboard.php:423
+#: includes/class-wtai-product-category.php:210
+#: includes/class-wtai-product-category.php:319
+msgid "Rewrite is unavailable when no WordPress text is found."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:289
+#: includes/class-wtai-product-dashboard.php:422
+#: includes/class-wtai-product-category.php:209
+msgid "Rewrite is unavailable when reference product is selected."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:286
+#: includes/class-wtai-product-dashboard.php:416
+#: includes/class-wtai-product-category.php:206
+msgid "Rewrite selected"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:3749 templates/admin/post.php:83
+#: templates/admin/post.php:83 templates/admin/category.php:93
+#: templates/admin/category.php:93
+msgid "Save"
+msgstr ""
+
+#: templates/admin/post.php:91 templates/admin/category.php:102
+msgid "Save your changes to preview how they will look on your website."
+msgstr ""
+
+#: templates/admin/dashboard-category.php:55
+#: templates/admin/dashboard-category.php:57
+msgid "Search categories"
+msgstr ""
+
+#: templates/admin/metabox/keywords-serp.php:14
+msgid "Search Engine Results Page (SERP) Overview"
+msgstr ""
+
+#: templates/admin/dashboard.php:57
+msgid "Search products"
+msgstr ""
+
+#: templates/admin/dashboard.php:55
+msgid "Search products:"
+msgstr ""
+
+#: templates/admin/metabox/keywords-selected.php:27
+#: templates/admin/metabox/keywords-ranked.php:143
+#: templates/admin/metabox/keywords-suggested.php:118
+#: templates/admin/metabox/keywords-competitor.php:135
+#: templates/admin/metabox/keywords-manual.php:40
+msgid "Search vol."
+msgstr ""
+
+#: templates/admin/metabox/keywords-ranked.php:180
+#: templates/admin/metabox/keywords-suggested.php:155
+#: templates/admin/metabox/keywords-competitor.php:172
+msgid "Search volume"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:737
+msgid "second/s"
+msgstr ""
+
+#: writetext-ai.php:150
+msgid "Security nonce verification failed. Reload this page to try again."
+msgstr ""
+
+#. %s: Max representative product count.
+#: templates/admin/category.php:169
+#, php-format
+msgid ""
+"Select a maximum of %s products that best represent this category. Depending "
+"on the data available, the product name, product description, and product "
+"images will be used as reference for generating text for this category."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:2469
+#: includes/class-wtai-init.php:611 includes/class-wtai-init.php:744
+#: includes/class-wtai-init.php:954 includes/class-wtai-init.php:1146
+#: templates/admin/dashboard.php:135 templates/admin/dashboard.php:149
+#: templates/admin/metabox/filter.php:136
+#: templates/admin/metabox/category-filter.php:100
+msgid "Select all"
+msgstr ""
+
+#: templates/admin/settings.php:104
+msgid ""
+"Select one or more audiences for your product so WriteText.ai can generate "
+"text that will appeal to them. If you don’t select an audience, the "
+"generated text will default to a “neutral” audience. What you choose here "
+"will apply to all your products unless you choose different audiences for a "
+"specific product page."
+msgstr ""
+
+#: templates/admin/metabox/filter.php:57
+#: templates/admin/metabox/category-filter.php:57
+msgid ""
+"Select one or more tones to set the overall mood and attitude of the text, "
+"and then choose a style to set the voice and structure of the text."
+msgstr ""
+
+#: templates/admin/settings.php:87
+msgid ""
+"Select one or more tones to set the overall mood and attitude of the text. "
+"What you choose here will apply to all your products unless you choose "
+"different options for a specific product page. We recommend setting defaults "
+"in order to ensure a consistent voice throughout your entire website."
+msgstr ""
+
+#: templates/admin/dashboard.php:253 templates/admin/category.php:183
+#: templates/admin/metabox/filter.php:110
+msgid "Select or enter product name"
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:86
+msgid "Select semantic keywords"
+msgstr ""
+
+#: templates/admin/metabox/category-filter.php:84
+msgid ""
+"Select the applicable audience for your category so WriteText.ai can "
+"generate text that will appeal to them.  If you don’t select an audience, "
+"the generated text will default to a “neutral” audience. WriteText.ai also "
+"suggests more specific audiences based on your target keywords. Click on the "
+"audience to select it or type in your own custom audience in the box."
+msgstr ""
+
+#: templates/admin/metabox/filter.php:84
+msgid ""
+"Select the applicable audience for your product so WriteText.ai can generate "
+"text that will appeal to them.  If you don’t select an audience, the "
+"generated text will default to a “neutral” audience. WriteText.ai also "
+"suggests more specific target markets based on your keywords. Click on the "
+"audience to select it or type in your own custom audience in the box."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:352
+msgid ""
+"Select the text types you want to transfer to WordPress.<br /><br />"
+"Transferring your text to WordPress will either save it as a draft or "
+"publish it on the website, depending on the current status of your product."
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:684
+msgid ""
+"Select this box to see categories without any activity (i.e., generating "
+"text, editing, reviewing, and transferring to WordPress) for the past number "
+"of days as defined in the field."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1444
+msgid ""
+"Select this box to see products without any activity (i.e., generating text, "
+"editing, reviewing, and transferring to WordPress) for the past number of "
+"days as defined in the field."
+msgstr ""
+
+#: templates/admin/install.php:149
+msgid "Select your preferred SEO plugin:"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:3691
+msgid "Select your target country"
+msgstr ""
+
+#: templates/admin/metabox/filter.php:48 templates/admin/metabox/filter.php:74
+#: templates/admin/metabox/category-filter.php:48
+#: templates/admin/metabox/category-filter.php:74
+msgid "Selected"
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:35
+#: templates/admin/metabox/keyword.php:43
+msgid "Semantic keywords"
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:36
+msgid ""
+"Semantic keywords are words or phrases that are closely related to a primary "
+"keyword or topic, which helps search engines and users understand the "
+"context and meaning of a piece of content. Using semantic keywords in your "
+"content can improve its relevance and quality. WriteText.ai automatically "
+"suggests semantic keywords related to your category name and target keywords."
+" Click on the semantic keyword if you want it to be considered in generating "
+"your category texts."
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:44
+msgid ""
+"Semantic keywords are words or phrases that are closely related to a primary "
+"keyword or topic, which helps search engines and users understand the "
+"context and meaning of a piece of content. Using semantic keywords in your "
+"content can improve its relevance and quality. WriteText.ai automatically "
+"suggests semantic keywords related to your product name and target keywords. "
+"Click on the semantic keyword if you want it to be considered in generating "
+"your product texts."
+msgstr ""
+
+#: templates/admin/footer-mobile.php:47 templates/admin/footer.php:90
+msgid "Send feedback"
+msgstr ""
+
+#: templates/admin/install.php:154 templates/admin/install.php:164
+msgid "SEO plugin(s) detected"
+msgstr ""
+
+#: templates/admin/metabox/keywords-serp.php:56
+msgid "SERP data as of "
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:55
+msgid "Set a reference product for generating text"
+msgstr ""
+
+#: templates/admin/settings.php:102
+msgid "Set default audiences"
+msgstr ""
+
+#: templates/admin/settings.php:189
+msgid "Set default category description length"
+msgstr ""
+
+#: templates/admin/settings.php:110
+msgid "Set default product attributes"
+msgstr ""
+
+#: templates/admin/settings.php:127
+msgid "Set default product description length"
+msgstr ""
+
+#: templates/admin/settings.php:157
+msgid "Set default product short description length"
+msgstr ""
+
+#: templates/admin/settings.php:93
+msgid "Set default style"
+msgstr ""
+
+#: templates/admin/settings.php:85
+msgid "Set default tones"
+msgstr ""
+
+#: includes/class-wtai-global-settings.php:47
+#: includes/class-wtai-global-settings.php:48
+msgid "Settings"
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:683
+msgid "Show categories without activity"
+msgstr ""
+
+#. %s: day input filter
+#: includes/class-wtai-product-category-list-table.php:642
+#, php-format
+msgid "Show categories without activity for the last %s day/s"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1443
+msgid "Show products without activity"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1388
+msgid "Show products without activity for the last"
+msgstr ""
+
+#: templates/admin/dashboard.php:71 templates/admin/dashboard-category.php:71
+msgid "Show text preview on hover"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:805
+msgid "SKU"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:398
+msgid ""
+"Some text has been generated but there has been an error generating other "
+"text. See error below."
+msgstr ""
+
+#: templates/admin/dashboard.php:157
+msgid "Special instructions"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:90
+msgid "Start AI-powered keyword analysis"
+msgstr ""
+
+#: templates/admin/dashboard.php:82 templates/admin/dashboard-category.php:82
+#: templates/admin/metabox/popin-history.php:19
+msgid "Start date"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:311
+#: includes/class-wtai-product-dashboard.php:439
+#: includes/class-wtai-product-category.php:237
+#: templates/admin/metabox/popin-keyword.php:117
+#: templates/admin/metabox/popin-keyword.php:162
+#: templates/admin/metabox/popin-keyword.php:262
+#: templates/admin/metabox/popin-keyword.php:349
+#: templates/admin/metabox/popin-keyword.php:401
+msgid "Starting AI-powered keyword analysis..."
+msgstr ""
+
+#: includes/functions.php:4524
+msgid "Status"
+msgstr ""
+
+#: templates/admin/install.php:100 templates/admin/metabox/keyword.php:19
+msgid "Step 1"
+msgstr ""
+
+#: templates/admin/install.php:140 templates/admin/metabox/keyword.php:84
+msgid "Step 2"
+msgstr ""
+
+#: templates/admin/post.php:127 templates/admin/category.php:131
+#: templates/admin/install.php:227
+msgid "Step 3"
+msgstr ""
+
+#: templates/admin/category.php:159 templates/admin/install.php:331
+#: templates/admin/metabox/filter.php:38
+msgid "Step 4"
+msgstr ""
+
+#: templates/admin/metabox/filter.php:152
+#: templates/admin/metabox/category-filter.php:38
+msgid "Step 5"
+msgstr ""
+
+#: templates/admin/post.php:62 templates/admin/metabox/category-filter.php:112
+msgid "Step 6"
+msgstr ""
+
+#: templates/admin/category.php:69
+msgid "Step 7"
+msgstr ""
+
+#: templates/admin/metabox/ads.php:25
+msgid "Stop seeing ads"
+msgstr ""
+
+#: includes/class-wtai-init.php:655
+msgid "Style"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:372
+msgid "Suggested keywords"
+msgstr ""
+
+#: templates/admin/metabox/keyword.php:30
+#: templates/admin/metabox/keyword.php:72
+msgid "Target keywords"
+msgstr ""
+
+#: templates/admin/post.php:256 templates/admin/dashboard.php:184
+#: templates/admin/dashboard.php:209 templates/admin/settings.php:131
+#: templates/admin/settings.php:161 templates/admin/settings.php:193
+#: templates/admin/category.php:321
+msgid "Target length (in words)"
+msgstr ""
+
+#: templates/admin/install.php:298
+msgid "Target length - Category description"
+msgstr ""
+
+#: templates/admin/install.php:248
+msgid "Target length - Product description"
+msgstr ""
+
+#: templates/admin/install.php:273
+msgid "Target length - Product short description"
+msgstr ""
+
+#: templates/admin/post.php:189 templates/admin/post.php:193
+#: templates/admin/category.php:243
+msgid "Target length<br/>"
+msgstr ""
+
+#: includes/class-wtai-init.php:895 includes/class-wtai-init.php:1196
+msgid "Target market (optional)"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:999
+#: includes/class-wtai-product-dashboard.php:1129
+msgid "Text generation completed"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:397
+msgid "Text generation completed."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:399
+msgid "Text rewrite completed."
+msgstr ""
+
+#: includes/class-wtai-product-category.php:241
+msgid ""
+"The category name is considered by default in generating text. Please add a "
+"different keyword."
+msgstr ""
+
+#: templates/admin/dashboard.php:259 templates/admin/metabox/filter.php:120
+msgid ""
+"The credit cost for generating text using a reference product will depend on "
+"the length of the reference text and any formatting (e.g., bold, italics, "
+"numbered or bulleted lists) applied to it. For a more detailed explanation, "
+"you may read our FAQ section on <a href=\"https://writetext.ai/frequently-"
+"asked-questions#credit-cost\" target=\"_blank\" >how your credit cost is "
+"calculated</a>."
+msgstr ""
+
+#: templates/admin/metabox/filter.php:188
+#: templates/admin/metabox/category-filter.php:148
+msgid ""
+"The credit cost for rewriting text will depend on the length of the original "
+"text and any formatting (e.g., bold, italics, numbered or bulleted lists) "
+"applied to it. For a more detailed explanation, you may read our FAQ section "
+"on <a href=\"https://writetext.ai/frequently-asked-questions#credit-cost\" "
+"target=\"_blank\" >how your credit cost is calculated</a>."
+msgstr ""
+
+#: templates/admin/category.php:242
+msgid ""
+"The current category description saved for the category is displayed in the "
+"box on the right for your reference only."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:303
+#: includes/class-wtai-product-dashboard.php:373
+#: includes/class-wtai-product-category.php:229
+msgid "The entered keyword already exists."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:1136
+#: includes/class-wtai-product-dashboard.php:4027
+#: includes/class-wtai-product-category.php:1467
+msgid "The following image/s are invalid:"
+msgstr ""
+
+#. %s: Failed image filenames
+#: includes/class-wtai-api-services.php:5727
+#, php-format
+msgid ""
+"The following image/s are invalid: \"%s\". Please upload a different image "
+"and try again."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:315
+#: includes/class-wtai-product-dashboard.php:444
+msgid ""
+"The product name is considered by default in generating text. Please add a "
+"different keyword."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:353
+msgid ""
+"The selected attributes will be considered in generating product text. Note "
+"that selecting a product attribute is not a guarantee that it will appear in "
+"the text itself, but it will help guide WriteText.ai in generating more "
+"relevant text."
+msgstr ""
+
+#: writetext-ai.php:158
+msgid ""
+"The server is currently handling a lot of requests. Please retry after a few "
+"minutes."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:814
+#: includes/class-wtai-product-category.php:2494
+msgid ""
+"There is an error encountered while saving review status to the API. Please "
+"try again later."
+msgstr ""
+
+#: templates/admin/post.php:136
+msgid ""
+"There is no guarantee that a selected product attribute will always appear "
+"in the text, but it will help guide WriteText.ai in generating more relevant "
+"text."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:979
+msgid ""
+"These processes run in the background. You can safely navigate away from "
+"this page while these are in progress, but you cannot edit the products "
+"where bulk actions are currently being applied."
+msgstr ""
+
+#. %s: max open graph limit
+#: templates/admin/category.php:248
+#, php-format
+msgid ""
+"This is the text that appears in the preview when you share the category "
+"page on social media sites like Facebook, Twitter, or LinkedIn. WriteText.ai "
+"aims to generate text with more or less %s characters, based on current best "
+"practices. The current Open Graph text saved for the category is displayed "
+"in the box on the right for your reference only."
+msgstr ""
+
+#. %s: max open graph limit
+#: templates/admin/post.php:198
+#, php-format
+msgid ""
+"This is the text that appears in the preview when you share the product page "
+"on social media sites like Facebook, Twitter, or LinkedIn. WriteText.ai aims "
+"to generate text with more or less %s characters, based on current best "
+"practices. The current Open Graph text saved for the product is displayed in "
+"the box on the right for your reference only."
+msgstr ""
+
+#: includes/class-wtai-product-category.php:242
+msgid ""
+"This keyword is the same as the category name and is already considered by "
+"default when generating text. Please add a different keyword."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:316
+#: includes/class-wtai-product-dashboard.php:445
+msgid ""
+"This keyword is the same as the product name and is already considered by "
+"default when generating text. Please add a different keyword."
+msgstr ""
+
+#. %s: formatted date and time
+#: includes/class-wtai-product-dashboard.php:324
+#: includes/class-wtai-product-dashboard.php:453
+#: includes/class-wtai-product-category.php:250
+#, php-format
+msgid ""
+"This page is not ranking for any keywords as of %s. <br><br>You may click "
+"the \"Start AI-powered keyword analysis\" button to refresh ranking data for "
+"the whole domain. We recommend doing this after a month has passed since "
+"your last request — any less than that may not return any significant "
+"results."
+msgstr ""
+
+#: includes/class-wtai-api-services.php:544
+#: includes/class-wtai-api-services.php:566
+msgid ""
+"This WriteText.ai plugin version is outdated. Please update to the latest "
+"version."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1636
+msgid ""
+"To see the current status of your product, click on Edit and look for the "
+"“Transfer to WordPress” box in the upper right corner of the page."
+msgstr ""
+
+#: includes/class-wtai-init.php:654 includes/class-wtai-init.php:939
+msgid "Tones"
+msgstr ""
+
+#: templates/admin/metabox/filter.php:44
+#: templates/admin/metabox/category-filter.php:44
+msgid "Tones & Style"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:282
+#: includes/class-wtai-product-dashboard.php:419
+#: includes/class-wtai-product-category.php:202
+msgid "Tones and styles are unavailable when reference product is selected."
+msgstr ""
+
+#: includes/class-wtai-init.php:683
+msgid ""
+"Tones, styles and audiences are unavailable when reference product is "
+"selected."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:893
+#: includes/class-wtai-product-dashboard.php:424
+#: includes/class-wtai-product-category-list-table.php:421
+#: includes/class-wtai-product-category.php:310
+#: templates/admin/dashboard.php:282
+msgid "Transfer"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:2008
+#: includes/class-wtai-api-services.php:2012
+msgid ""
+"Transfer failed because there are no generated texts yet for some of the "
+"products selected. Generate text first before transferring."
+msgstr ""
+
+#: templates/admin/post.php:110 templates/admin/category.php:114
+msgid "Transfer selected to WordPress"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1020
+#: includes/class-wtai-product-dashboard.php:348
+#: includes/class-wtai-product-category.php:312 templates/admin/post.php:63
+#: templates/admin/category.php:70
+msgid "Transfer to WordPress"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1338
+#: includes/class-wtai-product-list-table.php:1441
+#: includes/class-wtai-product-category-list-table.php:593
+#: includes/class-wtai-product-category-list-table.php:681
+msgid "Transferred"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:944
+#: includes/class-wtai-product-dashboard.php:1050
+msgid "Transferring text"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:2844
+#: includes/class-wtai-product-dashboard.php:2894
+msgid "Transferring text..."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1635
+msgid ""
+"Transferring your text to WordPress will either save it as a draft or "
+"publish it on the website, depending on the current status of your product. "
+"For example, if the product is already published, the text you transfer from "
+"WriteText.ai will automatically be published live. If the product is still "
+"in draft, the text you transfer will also be saved as a draft, and you will "
+"need to publish the product first if you want to see the text live. "
+msgstr ""
+
+#: includes/class-wtai-api-services.php:884
+msgid "Try again"
+msgstr ""
+
+#. %s: combination label
+#: includes/functions.php:3199
+#, php-format
+msgid "Unavailable when the \"%s\" audience is selected."
+msgstr ""
+
+#. %s: combination label
+#: includes/functions.php:3193
+#, php-format
+msgid "Unavailable when the \"%s\" style is selected."
+msgstr ""
+
+#. %s: combination label
+#: includes/functions.php:3196
+#, php-format
+msgid "Unavailable when the \"%s\" tone is selected."
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:25
+#: templates/admin/metabox/premium-modal.php:82
+msgid "Unlock Premium"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:28
+msgid ""
+"Unlock Premium features by purchasing credits with our pay-as-you-go "
+"solution, or by subscribing to a monthly or annual plan. With Premium, "
+"you'll be able to:"
+msgstr ""
+
+#: templates/admin/post.php:160 templates/admin/dashboard.php:168
+#: templates/admin/category.php:214
+msgid "Use a comma to separate details."
+msgstr ""
+
+#: templates/admin/metabox/filter.php:103
+msgid "Use another product as reference"
+msgstr ""
+
+#: templates/admin/dashboard.php:270
+msgid "Use keywords you're currently ranking for"
+msgstr ""
+
+#. %s: wta version
+#: templates/admin/footer-mobile.php:68 templates/admin/footer.php:102
+#, php-format
+msgid "version %s"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1016
+#: includes/class-wtai-product-dashboard.php:962
+#: includes/class-wtai-product-category-list-table.php:497
+#: includes/functions.php:4120 templates/admin/metabox/category-image.php:28
+#: templates/admin/metabox/category-representative-products.php:44
+#: templates/admin/metabox/category-product-list-dropdown.php:47
+#: templates/admin/metabox/category-product-list-dropdown.php:87
+msgid "View"
+msgstr ""
+
+#: includes/functions.php:4052
+msgid "View image"
+msgstr ""
+
+#: templates/admin/metabox/category-product-list-dropdown.php:99
+msgid "We couldn't find any items in this category."
+msgstr ""
+
+#: templates/admin/install.php:46 templates/admin/install.php:62
+msgid ""
+"We have detected a change in the SEO plugin used in your site. An "
+"administrator needs to set this up before you can continue using WriteText."
+"ai. Don't worry, all your content is saved and you will be redirected back "
+"to your dashboard after your administrator has set this up."
+msgstr ""
+
+#: templates/admin/install.php:163
+msgid ""
+"We have detected multiple SEO plugins installed and activated in your "
+"WordPress site. You will need to manually deactivate any SEO plugin(s) you "
+"are not using and leave your preferred plugin activated. This will be where "
+"WriteText.ai will transfer the SEO text that it will generate for you.<br />"
+"<br /><strong>Note:</strong> This is to avoid conflict and duplicates in "
+"your SEO tags. Make sure to double-check before deactivating in order to "
+"avoid losing your data.<br><br>Once you're done, please refresh this page."
+msgstr ""
+
+#: templates/admin/install.php:153
+msgid ""
+"We have detected that you currently have an SEO plugin installed but not "
+"activated in your WordPress site. You will need to activate this plugin "
+"first in order for Writetext.ai to have a place to transfer the SEO text "
+"that it will generate for you. If you don’t want to use this SEO plugin, you "
+"can also select other SEO plugins that WriteText.ai is compatible with in "
+"the list below and we will install and activate it for you."
+msgstr ""
+
+#: templates/admin/install.php:158
+msgid ""
+"We have detected that you currently have SEO plugins installed but not "
+"activated in your WordPress site. You will need to activate one plugin in "
+"order for WriteText.ai to have a place to transfer the SEO text that it will "
+"generate for you. <strong>Note</strong>: Activate only ONE of these plugins "
+"to avoid conflict and duplicates in your SEO tags."
+msgstr ""
+
+#: templates/admin/post.php:70
+msgid ""
+"When you're done generating and/or editing text, you have the option to save "
+"the draft inside WriteText.ai or transfer the text to WordPress. "
+"Transferring your text to WordPress will either save it as a draft or "
+"publish it on the website, depending on the current status of your product."
+msgstr ""
+
+#: templates/admin/category.php:78
+msgid ""
+"When you're done generating and/or editing text, you have the option to save "
+"the draft inside WriteText.ai or transfer the text to WordPress. "
+"Transferring your text to WordPress will publish it on the website."
+msgstr ""
+
+#: includes/functions.php:4067
+msgid "word/s"
+msgstr ""
+
+#. %s: column label
+#: includes/functions.php:224
+msgid "WordPress"
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:358
+msgid "WordPress category description"
+msgstr ""
+
+#: includes/functions.php:4083
+msgid "WordPress image alt text"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:815
+#: includes/class-wtai-product-category-list-table.php:355
+msgid "WordPress meta description"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:812
+#: includes/class-wtai-product-category-list-table.php:352
+msgid "WordPress meta title"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:824
+#: includes/class-wtai-product-category-list-table.php:361
+msgid "WordPress Open Graph text"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:818
+msgid "WordPress product description"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:821
+msgid "WordPress product short description"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:63
+msgid "Write your own custom tone and style"
+msgstr ""
+
+#: templates/admin/metabox/premium-modal.php:71
+msgid "Write your own target market"
+msgstr ""
+
+#: includes/class-wtai-init.php:867
+msgid "Write your specific style..."
+msgstr ""
+
+#: includes/class-wtai-init.php:892 includes/class-wtai-init.php:1195
+msgid "Write your specific target market here"
+msgstr ""
+
+#: includes/class-wtai-init.php:830
+msgid "Write your specific tone..."
+msgstr ""
+
+#. %s: column label
+#. Name of the plugin
+#: includes/class-wtai-product-dashboard.php:547
+#: includes/class-wtai-product-dashboard.php:548 includes/functions.php:158
+#: includes/functions.php:173 templates/admin/install.php:25
+msgid "WriteText.ai"
+msgstr ""
+
+#: includes/class-wtai-product-category.php:372
+msgid "WriteText.ai - Categories"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:559
+msgid "WriteText.ai - Products"
+msgstr ""
+
+#: includes/class-wtai-init.php:439
+msgid "WriteText.ai Administrator"
+msgstr ""
+
+#. %s: max meta description limit
+#: templates/admin/category.php:239
+#, php-format
+msgid ""
+"WriteText.ai aims to generate a description with around %s characters, based "
+"on current SEO best practices. The current meta description saved for the "
+"category is displayed in the box on the right for your reference only."
+msgstr ""
+
+#. %s: max meta description limit
+#: templates/admin/post.php:185
+#, php-format
+msgid ""
+"WriteText.ai aims to generate a description with around %s characters, based "
+"on current SEO best practices. The current meta description saved for the "
+"product is displayed in the box on the right for your reference only."
+msgstr ""
+
+#. %s: max meta title limit
+#: templates/admin/category.php:235
+#, php-format
+msgid ""
+"WriteText.ai aims to generate a title with around %s characters, based on "
+"current SEO best practices. The current meta title saved for the category is "
+"displayed in the box on the right for your reference only."
+msgstr ""
+
+#. %s: max meta title limit
+#: templates/admin/post.php:181
+#, php-format
+msgid ""
+"WriteText.ai aims to generate a title with around %s characters, based on "
+"current SEO best practices. The current meta title saved for the product is "
+"displayed in the box on the right for your reference only."
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:359
+msgid "WriteText.ai category description"
+msgstr ""
+
+#: includes/class-wtai-init.php:480
+msgid "WriteText.ai Contributor"
+msgstr ""
+
+#: includes/class-wtai-init.php:460
+msgid "WriteText.ai Editor"
+msgstr ""
+
+#: includes/functions.php:4057
+msgid "WriteText.ai image alt text"
+msgstr ""
+
+#: includes/class-wtai-api-services.php:881
+msgid ""
+"WriteText.ai is currently experiencing a high volume of requests and has "
+"timed out."
+msgstr ""
+
+#: includes/class-wtai-api-services.php:891
+msgid "WriteText.ai is done generating text for your selected products."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:816
+#: includes/class-wtai-product-category-list-table.php:356
+msgid "WriteText.ai meta description"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:813
+#: includes/class-wtai-product-category-list-table.php:353
+msgid "WriteText.ai meta title"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:825
+#: includes/class-wtai-product-category-list-table.php:362
+msgid "WriteText.ai Open Graph text"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:819
+msgid "WriteText.ai product description"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:822
+msgid "WriteText.ai product short description"
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1316
+#: includes/class-wtai-product-category-list-table.php:571
+msgid "WriteText.ai status"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:3694
+msgid ""
+"WriteText.ai will attempt to localize the generated text for your selected "
+"country/countries."
+msgstr ""
+
+#: templates/admin/post.php:139
+msgid ""
+"WriteText.ai will then attempt to include the text or its meaning in the "
+"generated product text, e.g.:"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:296
+msgid ""
+"You can also manually add a keyword to be included in your text by typing it "
+"here and clicking the + sign."
+msgstr ""
+
+#: templates/admin/category.php:40
+msgid ""
+"You can filter reviewed categories by selecting “Reviewed” under the “Filter "
+"by WriteText.ai status” dropdown in the category list."
+msgstr ""
+
+#: templates/admin/post.php:33
+msgid ""
+"You can filter reviewed products by selecting “Reviewed” under the “Filter "
+"by WriteText.ai status” dropdown in the product list."
+msgstr ""
+
+#: templates/admin/install.php:335
+msgid "You can now start generating text with WriteText.ai."
+msgstr ""
+
+#. %s: Max keyword length
+#: includes/class-wtai-product-category.php:274 templates/admin/category.php:20
+#, php-format
+msgid ""
+"You can only add up to %s products. Please remove an existing product to add "
+"a new one."
+msgstr ""
+
+#. %s: Max keyword length
+#: includes/class-wtai-product-dashboard.php:267
+#: includes/class-wtai-product-category.php:215
+#: templates/admin/metabox/keywords-ranked.php:106
+#: templates/admin/metabox/keywords-suggested.php:96
+#: templates/admin/metabox/keywords-competitor.php:107
+#: templates/admin/metabox/keywords-manual.php:30
+#, php-format
+msgid ""
+"You can only add up to %s. Remove a keyword to add a new one to the "
+"\"Keywords to be included in your text\"."
+msgstr ""
+
+#. %s: Max keyword length
+#: includes/class-wtai-product-dashboard.php:270
+#: includes/class-wtai-product-category.php:218
+#: templates/admin/metabox/popin-keyword.php:316
+#, php-format
+msgid "You can only add up to %s. Remove a keyword to add a new one."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:4034
+#: includes/class-wtai-product-category.php:1474
+msgid ""
+"You can proceed with text generation without the invalid image(s) being "
+"taken into consideration, or cancel and upload a different image to try "
+"again."
+msgstr ""
+
+#: templates/admin/install.php:147
+msgid "You currently do not have an SEO plugin installed."
+msgstr ""
+
+#. %s: Freemium credit count
+#: templates/admin/freemium-popup.php:31
+#, php-format
+msgid "You earned %s free credits!"
+msgstr ""
+
+#: templates/admin/install.php:44
+msgid ""
+"You have been redirected here because we detected a change in the SEO plugin "
+"that you use. You will need to set an SEO plugin so WriteText.ai can have a "
+"place to transfer your SEO text to. Don't worry, all your content are saved "
+"and you will be redirected back to your dashboard after setting this up."
+msgstr ""
+
+#: templates/admin/metabox/keywords-ranked.php:323
+#: templates/admin/metabox/keywords-suggested.php:295
+#: templates/admin/metabox/keywords-competitor.php:335
+msgid ""
+"You have custom filters set up which might limit the keyword ideas you see "
+"in this list."
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:674
+msgid ""
+"You have generated and edited at least one text type for these categories, "
+"but you have not yet marked any of them as \"Reviewed\"."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1434
+msgid ""
+"You have generated and edited at least one text type for these products, but "
+"you have not yet marked any of them as \"Reviewed\"."
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:671
+msgid ""
+"You have generated at least one text type (meta title, meta description, "
+"category description, or Open Graph text) for these categories, but you have "
+"not yet done any editing to the text."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1431
+msgid ""
+"You have generated at least one text type (meta title, meta description, "
+"product description, product short description, or Open Graph text) for "
+"these products, but you have not yet done any editing to the text."
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:676
+msgid ""
+"You have marked these categories as \"Reviewed\" using the checkbox in the "
+"individual category editing page."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1436
+msgid ""
+"You have marked these products as \"Reviewed\" using the checkbox in the "
+"individual product editing page."
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:668
+msgid ""
+"You have not yet generated any text for these categories. Basically, these "
+"are the categories that are \"untouched\" by WriteText.ai."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1428
+msgid ""
+"You have not yet generated any text for these products. Basically, these are "
+"the products that are \"untouched\" by WriteText.ai."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:307
+#: includes/class-wtai-product-dashboard.php:435
+#: includes/class-wtai-product-category.php:233
+#: includes/class-wtai-product-category.php:307
+#: templates/admin/metabox/keyword.php:89
+msgid "You have selected the maximum number of semantic keywords."
+msgstr ""
+
+#: includes/class-wtai-product-category-list-table.php:682
+msgid ""
+"You have transferred the text from WriteText.ai (whether edited by you or "
+"not) to WordPress."
+msgstr ""
+
+#: includes/class-wtai-product-list-table.php:1442
+msgid ""
+"You have transferred the text from WriteText.ai (whether edited by you or "
+"not) to WordPress. Transferred does not automatically mean published on your "
+"live site. If your product is still in draft, then transferring only saves "
+"text in the draft as well. If the product is already published, then "
+"transferring publishes the text changes."
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:364
+#: includes/class-wtai-product-dashboard.php:1075
+#: includes/class-wtai-product-category.php:316 templates/admin/settings.php:69
+msgid "You have unsaved changes. Are you sure you want to leave this page?"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:1095
+#: includes/class-wtai-product-dashboard.php:1115
+msgid ""
+"You have unsaved changes. Are you sure you want to regenerate and replace "
+"text?"
+msgstr ""
+
+#: includes/class-wtai-product-dashboard.php:819
+#: includes/class-wtai-product-category.php:2499
+msgid "You haven't generated any text yet."
+msgstr ""
+
+#: writetext-ai.php:221
+msgid ""
+"You need WordPress version 6.0 or higher to install and use Writetext.ai."
+msgstr ""
+
+#. %s: Freemium credit count
+#: templates/admin/freemium-popup.php:41
+#, php-format
+msgid ""
+"You've generated your first text within 24 hours of signup. As a special "
+"reward, we're giving you <strong>access to Premium* and free %s "
+"credits</strong>! Enjoy enhanced features and more powerful tools to make "
+"your content shine."
+msgstr ""
+
+#. %s: Freemium credit count
+#: templates/admin/freemium-popup.php:34
+#, php-format
+msgid ""
+"You've generated your first text within 24 hours of signup. As a special "
+"reward, we're giving you <strong>free %s credits</strong>! Enjoy enhanced "
+"features and more powerful tools to make your content shine."
+msgstr ""
+
+#: templates/admin/freemium-popup.php:38
+msgid "You've unlocked premium!"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:361
+msgid "Your manually entered keywords will display here."
+msgstr ""
+
+#: templates/admin/metabox/keywords-manual.php:39
+msgid "Your own keywords"
+msgstr ""
+
+#: templates/admin/metabox/popin-keyword.php:289
+msgid "Your own keywords (optional)"
+msgstr ""
+
+#: templates/admin/category.php:194
+msgid "Your selected product/s will display here."
+msgstr ""
+
+#: templates/admin/install.php:71
+msgid "Your token is expired. Please log in again to extend your token."
+msgstr ""
+
+#: templates/admin/post.php:140
+msgid ""
+"“...Plus, its reusable bag makes it perfect for travel or to keep in storage "
+"when not in use!”"
+msgstr ""
+
+#: templates/admin/post.php:138
+msgid ""
+"“The shirt comes in a reusable shirt bag that can be used for traveling.”"
+msgstr ""

@@ -1,0 +1,514 @@
+.wtai-table-list-wrapper.writetext-table-list-category-wrapper .tablenav .wtai-wp-table-list-filter {
+    margin-left: 0;
+}
+
+.wtai-table-list-wrapper tr > .column-wtai_category_description,
+.wtai-table-list-wrapper tr > .column-category_description,
+.wtai-table-list-wrapper table thead tr .column-wtai_page_description,
+.wtai-table-list-wrapper table thead tr .column-category_description{
+    width: 240px !important;
+}
+
+.wtai-table-list-wrapper tr > .column-wtai_category_description{
+    border-right: 1px solid transparent;
+}
+
+.wtai-table-list-wrapper table thead tr .column-category_description,
+.wtai-table-list-wrapper tr > .column-category_description{
+    border-right: 1px solid #C3C4C7;
+}
+
+.writetext-ai_page_write-text-ai-category .wtai-status-checkbox-options {
+    left: 0;
+    right: 0;
+}
+
+.wtai-table-list-wrapper.writetext-table-list-category-wrapper table .column-wtai_thumb{
+    left: 0
+}
+
+.wtai-table-list-wrapper.writetext-table-list-category-wrapper table .column-wtai_title{
+    left: 60px;
+}
+
+.wtai-wp-filter.wtai-filter-main-wrap.wtai-category-filter-main-wrap .wtai-postbox-process .wtai-postbox-process-left{
+    width: 70%
+}
+
+.wtai-category-single-spacer{
+    height: 80px;
+    width: 100%;
+}
+
+#wtai-woocommerce-category-image .wtai-category-image-wrap{
+    padding: 12px
+}
+
+.wtai-category-image-selection-wrap{
+    display: flex;
+    gap: 5px;
+}
+
+.wtai-category-image-selection-thumb-wrap .wtai-alt-image{
+    height: 60px;
+    width: 60px;
+    overflow: hidden;
+}
+
+.wtai-category-image-selection-thumb-wrap .wtai-alt-image img{
+    object-fit: contain;
+}
+
+.wtai-category-image-selection-text-wrap{
+    padding-left: 5px
+}
+
+#wtai-woocommerce-product-attributes .wtai-mb-headline{
+    font-size: 13px;
+}
+
+.wtai-representative-product-wrap{
+    padding: 0 0 10px
+}
+
+.wtai-representative-product-message{
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.wtai-representative-product-message,
+.wtai-representative-product-message p{
+    color: #646970;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+}
+
+#wtai-woocommerce-product-attributes ul li:nth-child(odd) {
+    background: #fff;
+}
+
+.wtai-representative-product-items-wrap{
+    position: relative;
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.wtai-representative-product-items-wrap .wtai-representative-product-empty{
+    /*position: absolute;
+    top: 0px;
+    left: 0;*/
+    text-align: center;
+    background-color: #F6F7F7;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0
+}
+
+.wtai-representative-product-empty-text{
+    display: block;
+    padding: 0 50px;
+}
+
+.wtai-representative-product-items-wrap .wtai-representative-product-empty.hidden{
+    display: none;
+}
+
+.wtai-representative-product-input-container{
+    position: relative;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 15px
+}
+
+.wtai-representative-product-input-container::after {
+    content: "\f140";
+    font: normal 20px / 1 dashicons;
+    position: absolute;
+    right: 15px;
+    top: 20px;
+    pointer-events: none; /* Prevent the icon from blocking clicks on the input */
+    color: #8C8F94;
+}
+
+.wtai-representative-product-input-wrap.wtai-active .wtai-representative-product-input-container::after{
+    content: "\f142";
+}
+
+.wtai-representative-product-input{
+    border: 1px solid #8C8F94;
+    width: 100%;
+    box-shadow: 0px 1px 2px 0px #00000012 inset;
+    height: 30px;
+    padding: 5px 30px 5px 5px;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+    color: #646970;
+    border-radius: 4px!important;
+    border-color: #8C8F94!important;
+}
+
+.wtai-representative-product-input:focus{
+    box-shadow: 0px 1px 2px 0px #00000012 inset!important;
+    border: 1px solid #8C8F94!important;
+}
+
+.wtai-representative-product-input:disabled{
+    border-color: 1px solid #8C8F94!important;
+	cursor: not-allowed;
+	background: #f0f0f1!important;
+	box-shadow: inset 0 1px 2px rgba(0,0,0,.04)!important;
+	color: #303030;
+	opacity: 0.5!important;
+}
+
+.wtai-representative-product-input-items-wrap{
+    display: block;
+    border: 1px solid #8C8F94;
+    display: none;
+    position: absolute;
+    top: 42px;
+    left: 13px;
+    width: calc(100% - 24px);
+    min-height: 30px;
+    z-index: 999;
+    background-color: #fff;
+    max-height: 250px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+
+.wtai-representative-product-input-wrap{
+    position: relative;
+}
+
+.wtai-representative-product-input-wrap.wtai-active .wtai-representative-product-input-items-wrap{
+    display: block
+}
+
+.wtai-representative-product-input-wrap.wtai-active .wtai-representative-product-input{
+    border-radius: 4px 4px 0 0;
+    border: 1px solid #8C8F94!important;
+}
+
+.wtai-cat-product-items-wrap .wtai-cat-product-item{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    cursor: pointer;
+    background-color: #fff;
+    padding: 5px;
+}
+
+.wtai-cat-product-items-wrap .wtai-cat-product-item.wtai-hidden{
+    display: none
+}
+
+.wtai-rep-dp-no-products-found{
+    display: none;
+    padding: 10px;
+    color: #646970;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.wtai-cat-product-items-wrap .wtai-cat-product-item:hover{
+    background-color: #96C3F3;
+}
+
+.wtai-representative-product-items-list .wtai-representative-product-item .wtai-cat-product-thumb,
+.wtai-cat-product-items-wrap .wtai-cat-product-item .wtai-cat-product-thumb{
+    padding: 3px;
+    border: 1px solid #DDDDDD;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+}
+
+.wtai-cat-product-items-wrap .wtai-cat-product-item .wtai-cat-product-thumb.wtai-alt-image,
+.wtai-representative-product-items-list .wtai-representative-product-item .wtai-cat-product-thumb.wtai-alt-image{
+    width: auto;
+    height: auto;
+}
+
+.wtai-cat-product-items-wrap .wtai-cat-product-item .wtai-cat-product-thumb.wtai-alt-image{
+    width: 38px;
+    height: 38px;
+}
+
+.wtai-representative-product-items-list .wtai-representative-product-item .wtai-cat-product-thumb.wtai-alt-image:before{
+    left: 0;
+    top: 0;
+}
+
+.wtai-cat-product-items-wrap .wtai-cat-product-item .wtai-cat-product-thumb.wtai-alt-image .wtai-alt-image-hover-text,
+.wtai-cat-product-items-wrap .wtai-cat-product-item .wtai-cat-product-thumb.wtai-alt-image:before{
+    display: none;
+}
+
+.wtai-cat-product-items-wrap .wtai-cat-product-item img{
+    width: 30px;
+    height: 30px;
+}
+
+.wtai-representative-product-items-list .wtai-representative-product-item,
+.wtai-cat-product-items-wrap .wtai-cat-product-item .wtai-cat-product-name{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: left;
+}
+
+.wtai-cat-product-items-wrap .wtai-cat-product-item .wtai-cat-product-name{
+    width: 75%
+}
+
+.wtai-representative-product-items-list .wtai-representative-product-item{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    cursor: pointer;
+    padding: 5px 12px;
+}
+
+.wtai-representative-product-items-list .wtai-representative-product-item:nth-child(odd) {
+    background-color: #fff;
+}
+
+.wtai-representative-product-items-list .wtai-representative-product-item:nth-child(even) {
+    background-color: #F6F7F7;
+}
+
+.wtai-representative-product-items-list .wtai-representative-product-item img{
+    width: 40px;
+    height: 40px;
+}
+
+.wtai-representative-product-items-list .wtai-representative-product-item .wtai-cat-product-name{
+    flex: 1
+}
+
+.wtai-remove-rep-prod-btn{
+    border: 0!important;
+    background-color: transparent!important;
+    color: #3C434A;
+    font-size: 20px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.wtai-representative-product-items-list{
+    position: relative;
+}
+
+.wtai-representative-product-items-list.wtai-loading-state:before{
+    content: url('../images/spinner-1s-20px.gif');
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2; /* Ensure the spinner is above the overlay */
+	background-blend-mode: overlay;
+	mix-blend-mode: multiply;
+}
+
+.wtai-representative-product-items-list.wtai-loading-state:after{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #fff; /* Semi-transparent overlay */
+	opacity: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1; /* Ensure the overlay is on top */
+    opacity: 0.7
+}
+
+.wtai-cat-product-items-load-more{
+    height: 30px;
+    width: 100%;
+    position: relative;
+    display: none
+}
+
+.wtai-cat-product-items-load-more.wtai-shown{
+    display: block
+}
+
+.wtai-cat-product-items-load-more:before{
+    content: url('../images/spinner-1s-20px.gif');
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2; /* Ensure the spinner is above the overlay */
+	background-blend-mode: overlay;
+	mix-blend-mode: multiply;
+}
+
+.wtai-step-guideline.wtai-step-guideline-6{
+    margin-right: 8px;
+}
+
+.wtai-step-guideline.wtai-step-guideline-7,
+.wtai-step-guideline.wtai-step-guideline-4{
+    margin-right: 4px;
+}
+
+.wtai-cat-no-image-wrap{
+    text-align: center;
+}
+
+.wtai-seo-field-disabled-label{
+    color: #FF0000;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    display: inline-block;
+    margin-left: 4px;
+    vertical-align: top;
+}
+
+.postbox-container .wtai-metabox.wtai-disabled-seo-field{
+    position: relative
+}
+
+.postbox-container .wtai-metabox.wtai-disabled-seo-field .wtai-col-row-wrapper:after{
+    opacity: 0.7;
+    content: '';
+    background: #fff;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+
+.writetext-ai_page_write-text-ai-category .tablenav.top .wtai-tooltip.wtai-two-cols .wtai-tooltiptext {
+    left: -5px;
+    right: auto;
+}
+
+#wtai-frm-search-products p.wtai-search-box{
+    margin-top: 0
+}
+
+.wtai-post-status-label{
+    font-style: italic;
+    text-transform: lowercase;
+}
+
+.wtai-representative-product-counter-wrap{
+    padding: 0 12px;
+    text-align: right;
+    color: #1D2327;
+    font-weight: 500;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    display: none;
+}
+
+.wtai-notif-error-headline{
+    margin-bottom: 15px;
+}
+
+.wtai-rep-prod-tooltip{
+    font-size: 12px;
+    display: block;
+    max-width: 240px;
+    line-height: 1.2
+}
+
+@media (min-width: 640px) and (max-width: 1279px) {
+    .wtai-table-list-wrapper .tablenav .wtai-wp-table-list-filter {
+        width: auto;
+    }
+}
+
+@media (max-width: 1279px) {
+    .writetext-ai_page_write-text-ai-category .tablenav.top .wtai-tooltip.wtai-two-cols .wtai-tooltiptext {
+        left: -15px;
+        right: auto;
+        max-width: 480px;
+    }
+
+    .wtai-wp-table-list-filter .wtai-tooltip .wtai-tooltiptext{
+        display: block;
+    }
+
+    .wtai-tooltip.wtai-two-cols .wtai-tooltiptext > div.wtai-col{
+        width: 100%;
+        float: none;
+        clear: both
+    }
+
+    .wtai-tooltip.wtai-two-cols .wtai-tooltiptext > div.wtai-col-1 {
+        padding-right: 0;
+        border-right: 0;
+    }
+
+    .wtai-tooltip.wtai-two-cols .wtai-tooltiptext > div.wtai-col-2{
+        padding-left: 0;
+        padding-top: 20px
+    }    
+}
+
+@media screen and (max-width: 1200px) {
+    .wtai-wp-filter.wtai-filter-main-wrap.wtai-category-filter-main-wrap .wtai-postbox-process .wtai-postbox-process-left{
+        width: 100%
+    }
+}
+
+@media screen and (max-width: 782px) {
+    .wtai-table-list-wrapper.writetext-table-list-category-wrapper table .column-wtai_title{
+        left: 0px;
+    }
+
+    .wtai-step-guideline.wtai-step-guideline-6 {
+        margin-bottom: 8px;
+    }
+
+    .wtai-table-list-wrapper table thead tr .column-wtai_page_description, 
+    .wtai-table-list-wrapper tr > .column-wtai_category_description {
+        border-right: 1px solid #C3C4C7;
+    }
+
+    .writetext-ai_page_write-text-ai-category .tablenav.top .wtai-tooltip.wtai-two-cols .wtai-tooltiptext{
+        max-width: 350px
+    }
+
+    .wtai-table-list-wrapper .tablenav .wtai-wp-table-list-filter {
+        width: 100%;
+    }
+
+    .writetext-ai_page_write-text-ai-category .tablenav.top .wtai-tooltip.wtai-two-cols .wtai-tooltiptext {
+        left: auto;
+        right: -5px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .writetext-ai_page_write-text-ai-category .tablenav.top .wtai-tooltip.wtai-two-cols .wtai-tooltiptext {
+        left: auto;
+        right: -5px;
+    }
+
+    .wtai-wp-filter.wtai-filter-main-wrap.wtai-category-filter-main-wrap .wtai-postbox-process .wtai-postbox-process-left {
+        width: 100%;
+    }
+}
